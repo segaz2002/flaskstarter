@@ -1,9 +1,9 @@
 # [Flask - Kickstarter]
 
-A simple flask starter project to kickstart a new project
+A simple flask starter project to kickstart a new flask project.
 
 ## Getting Started
-* Fork this repository on GitHub
+* Fork this repository on GitHub, the sky is the limit.
 
 ## Bugs and Issues
 
